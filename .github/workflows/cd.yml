@@ -1,4 +1,4 @@
-name: CD - Despliegue continuo Node.js en Windows
+name: cd
 
 on:
   push:
